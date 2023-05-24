@@ -1,0 +1,5 @@
+*.ini
+
+client_save/*
+
+CloudSaves/*

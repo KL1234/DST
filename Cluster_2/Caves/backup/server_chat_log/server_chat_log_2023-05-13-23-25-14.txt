@@ -1,0 +1,10 @@
+[00:00:34]: [Join Announcement] KL
+[00:01:41]: [Join Announcement] helly199685
+[00:19:09]: [Join Announcement] zero3495
+[00:28:28]: [Skin Announcement] helly199685 body_buttons_black_jet
+[01:00:56]: [Skin Announcement] KL hand_woodie_gladiator
+[01:23:46]: [Skin Announcement] zero3495 body_buttons_blue_sapphire
+[01:33:42]: [Skin Announcement] helly199685 backpack_camping_orange_carrot
+[02:04:49]: [Skin Announcement] KL perdling_puffin
+[02:10:55]: [Death Announcement] KL 死於： 麋鹿鵝。她變成了可怕的鬼魂！
+[02:11:58]: [Leave Announcement] KL

@@ -1,0 +1,7 @@
+[00:00:45]: [Join Announcement] KL
+[00:01:37]: [Join Announcement] zero3495
+[00:07:15]: [Skin Announcement] KL feet_twotone_shoe_red_auburn
+[01:18:44]: [Skin Announcement] zero3495 body_trimmed_blouse_yellow_flax
+[01:21:35]: [Skin Announcement] KL birdcage_ornamental
+[01:50:38]: [Leave Announcement] KL
+[01:50:38]: [Leave Announcement] zero3495

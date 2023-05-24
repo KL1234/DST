@@ -1,0 +1,17 @@
+[00:00:41]: [Join Announcement] KL
+[00:01:06]: [Join Announcement] helly199685
+[00:02:18]: [Join Announcement] zero3495
+[00:06:49]: [Death Announcement] zero3495 死於： 麋鹿鵝幼崽。他變成了可怕的鬼魂！
+[00:08:30]: [Say] (KU_8EfLIVjw) zero3495: 做復活紅寶石
+[00:09:17]: [Resurrect Announcement] zero3495 復活自： 重生護符.
+[00:20:50]: [Skin Announcement] zero3495 legs_skirt_pleated_tan_khaki
+[00:29:38]: [Skin Announcement] helly199685 feet_captoe_shoe_tan_beefalo
+[00:35:48]: [Say] (KU_8EfLIVjw) zero3495: 我操你的，用模組還能錯
+[00:46:19]: [Say] (KU_lXC3E5-p) helly199685: angry
+[00:46:29]: [Say] (KU_lXC3E5-p) helly199685: happy
+[00:54:29]: [Skin Announcement] KL feet_sneakers_green_cactus
+[01:17:44]: [Skin Announcement] helly199685 hand_waxwell_gladiator
+[01:30:28]: [Skin Announcement] zero3495 legs_pinstripe_pants_purple_violet
+[01:39:24]: [Leave Announcement] KL
+[01:39:25]: [Leave Announcement] zero3495
+[01:39:25]: [Leave Announcement] helly199685

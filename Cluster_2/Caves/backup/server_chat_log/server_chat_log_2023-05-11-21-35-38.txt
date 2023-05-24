@@ -1,0 +1,7 @@
+[00:00:58]: [Join Announcement] KL
+[00:04:47]: [Join Announcement] helly199685
+[00:05:04]: [Join Announcement] zero3495
+[00:54:16]: [Skin Announcement] helly199685 hand_longgloves_blue_cerulean
+[01:15:03]: [Death Announcement] zero3495 死於： 恐怖尖喙。他變成了可怕的鬼魂！
+[01:16:19]: [Resurrect Announcement] zero3495 復活自： KL.
+[01:23:12]: [Leave Announcement] KL

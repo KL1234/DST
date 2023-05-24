@@ -1,0 +1,15 @@
+[00:00:40]: [Join Announcement] KL
+[00:01:05]: [Join Announcement] helly199685
+[00:03:21]: [Join Announcement] zero3495
+[00:03:28]: [Whisper] (KU_9bMvNiQC) KL: RZ c9
+[00:03:36]: [Whisper] (KU_9bMvNiQC) KL: 你好了說 OK
+[00:03:41]: [Whisper] (KU_8EfLIVjw) zero3495: OK
+[00:03:45]: [Whisper] (KU_9bMvNiQC) KL: 你好了說我好帥
+[00:03:48]: [Whisper] (KU_8EfLIVjw) zero3495: OK
+[00:03:54]: [Whisper] (KU_9bMvNiQC) KL: 按U是打字
+[00:04:00]: [Say] (KU_lXC3E5-p) helly199685: angry
+[00:04:02]: [Say] (KU_8EfLIVjw) zero3495: OK
+[00:15:39]: [Death Announcement] helly199685 死於： 閃電。她變成了可怕的鬼魂！
+[00:16:31]: [Leave Announcement] KL
+[00:16:32]: [Leave Announcement] zero3495
+[00:16:32]: [Leave Announcement] helly199685

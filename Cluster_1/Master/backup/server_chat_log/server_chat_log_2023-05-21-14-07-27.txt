@@ -1,0 +1,7 @@
+[00:00:59]: [Join Announcement] KL
+[00:04:11]: [Join Announcement] zero3495
+[00:20:49]: [Skin Announcement] zero3495 legs_shorts_tan_khaki
+[00:22:39]: [Death Announcement] KL 死於： 蜘蛛。她變成了可怕的鬼魂！
+[00:22:50]: [Death Announcement] zero3495 死於： 蜘蛛。他變成了可怕的鬼魂！
+[00:23:03]: [Leave Announcement] KL
+[00:23:04]: [Leave Announcement] zero3495

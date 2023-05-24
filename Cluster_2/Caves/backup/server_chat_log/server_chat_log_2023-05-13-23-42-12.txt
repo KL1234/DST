@@ -1,0 +1,7 @@
+[00:00:40]: [Join Announcement] KL
+[00:01:05]: [Join Announcement] helly199685
+[00:03:21]: [Join Announcement] zero3495
+[00:04:00]: [Say] (KU_lXC3E5-p) helly199685: angry
+[00:04:02]: [Say] (KU_8EfLIVjw) zero3495: OK
+[00:15:39]: [Death Announcement] helly199685 死於： 閃電。她變成了可怕的鬼魂！
+[00:16:31]: [Leave Announcement] KL
