@@ -1,0 +1,2 @@
+[00:00:42]: [Join Announcement] KL
+[00:00:58]: [Leave Announcement] KL

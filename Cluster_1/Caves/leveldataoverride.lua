@@ -105,7 +105,6 @@ return {
     weather="default",
     winters_feast="default",
     world_size="default",
-    worldseed="",
     wormattacks="default",
     wormhole_prefab="tentacle_pillar",
     wormlights="default",

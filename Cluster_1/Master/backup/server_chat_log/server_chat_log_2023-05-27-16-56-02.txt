@@ -1,0 +1,10 @@
+[00:01:00]: [Join Announcement] KL
+[00:01:55]: [Join Announcement] helly199685
+[00:07:57]: [Skin Announcement] KL body_polo_white_marble
+[00:17:55]: [Join Announcement] zero3495
+[00:49:55]: [Leave Announcement] helly199685
+[01:08:03]: [Skin Announcement] KL hand_wurt_shadow
+[01:17:51]: [Death Announcement] KL 死於： 麋鹿鵝。她變成了可怕的鬼魂！
+[01:17:55]: [Resurrect Announcement] KL 復活自： 肉塊雕像.
+[01:18:14]: [Leave Announcement] KL
+[01:18:15]: [Leave Announcement] zero3495

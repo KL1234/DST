@@ -1,2 +1,7 @@
-[00:01:26]: [Join Announcement] KL
-[00:01:50]: [Leave Announcement] KL
+[00:00:35]: [Join Announcement] KL
+[00:02:21]: [Join Announcement] zero3495
+[00:14:33]: [Death Announcement] KL 死於： 麋鹿鵝幼崽。她變成了可怕的鬼魂！
+[00:14:40]: [Resurrect Announcement] KL 復活自： 肉塊雕像.
+[00:50:07]: [Skin Announcement] zero3495 hand_wathgrithr_magma
+[00:52:32]: [Leave Announcement] KL
+[00:52:33]: [Leave Announcement] zero3495
