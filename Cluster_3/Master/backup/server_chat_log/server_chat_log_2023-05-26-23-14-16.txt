@@ -1,0 +1,12 @@
+[00:00:33]: [Join Announcement] KL
+[00:01:09]: [Join Announcement] zero3495
+[00:01:22]: [Join Announcement] Ri
+[00:01:27]: [Join Announcement] helly199685
+[00:08:09]: [Death Announcement] KL 死於： 恐怖尖喙。她變成了可怕的鬼魂！
+[00:12:30]: [Resurrect Announcement] KL 復活自： helly199685.
+[00:13:55]: [Skin Announcement] KL hand_wickerbottom_ornate
+[00:23:54]: [Death Announcement] helly199685 死於： 蜘蛛戰士。她變成了可怕的鬼魂！
+[00:24:49]: [Leave Announcement] KL
+[00:24:49]: [Leave Announcement] helly199685
+[00:24:49]: [Leave Announcement] zero3495
+[00:24:49]: [Leave Announcement] Ri

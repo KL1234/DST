@@ -3,4 +3,4 @@ C:\Users\KL\Documents\Klei\DoNotStarveTogether\302380738
 
 Cluster_1 NoFullPeople 早春38 人沒到齊玩的世界(地圖刷得很好)
 Cluster_2 NewestKL 春天50 KL，EP，RZ的世界
-Cluster_3 KL12345 完美的地圖!
+Cluster_3 KL12345 人全到齊的世界

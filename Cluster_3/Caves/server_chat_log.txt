@@ -1,5 +1,19 @@
-[00:00:33]: [Join Announcement] KL
-[00:06:54]: [Join Announcement] helly199685
-[00:07:13]: [Join Announcement] zero3495
-[00:43:27]: [Skin Announcement] zero3495 body_silk_eveningrobe_pink_ewecus
-[00:50:26]: [Leave Announcement] KL
+[00:00:41]: [Join Announcement] KL
+[00:01:06]: [Join Announcement] Ri
+[00:01:16]: [Join Announcement] zero3495
+[00:01:52]: [Join Announcement] helly199685
+[00:26:04]: [Skin Announcement] zero3495 feet_wendy_gladiator
+[00:39:48]: [Skin Announcement] KL hand_longgloves_white_pure
+[00:42:21]: [Skin Announcement] helly199685 body_tshirt_blue_cerulean
+[00:48:49]: [Death Announcement] zero3495 死於： 爬行恐懼。他變成了可怕的鬼魂！
+[00:49:27]: [Resurrect Announcement] zero3495 復活自： KL.
+[01:05:13]: [Skin Announcement] Ri body_pj_red_redbird
+[01:22:40]: [Death Announcement] zero3495 死於： 樹精守衛。他變成了可怕的鬼魂！
+[01:23:44]: [Resurrect Announcement] zero3495 復活自： helly199685.
+[01:32:45]: [Skin Announcement] helly199685 feet_woodie_hippie
+[01:34:20]: [Skin Announcement] zero3495 legs_jeans_blue_peacock
+[01:36:51]: [Say] (KU_9bMvNiQC) KL: u
+[01:37:13]: [Say] (KU_lXC3E5-p) helly199685: angry
+[01:37:27]: [Say] (KU_lXC3E5-p) helly199685: happy
+[01:37:35]: [Say] (KU_lXC3E5-p) helly199685: \happy
+[01:37:40]: [Leave Announcement] KL
