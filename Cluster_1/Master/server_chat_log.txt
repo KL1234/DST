@@ -1,7 +1,17 @@
-[00:00:35]: [Join Announcement] KL
-[00:02:21]: [Join Announcement] zero3495
-[00:14:33]: [Death Announcement] KL 死於： 麋鹿鵝幼崽。她變成了可怕的鬼魂！
-[00:14:40]: [Resurrect Announcement] KL 復活自： 肉塊雕像.
-[00:50:07]: [Skin Announcement] zero3495 hand_wathgrithr_magma
-[00:52:32]: [Leave Announcement] KL
-[00:52:33]: [Leave Announcement] zero3495
+[00:00:41]: [Join Announcement] KL
+[00:01:14]: [Join Announcement] zero3495
+[00:01:44]: [Join Announcement] helly199685
+[00:31:16]: [Death Announcement] helly199685 死於： 夢魘尖喙。她變成了可怕的鬼魂！
+[00:34:37]: [Resurrect Announcement] helly199685 復活自： 絢麗之門.
+[00:35:46]: [Death Announcement] helly199685 死於： 中暑。她變成了可怕的鬼魂！
+[00:35:51]: [Resurrect Announcement] helly199685 復活自： 肉塊雕像.
+[00:36:18]: [Skin Announcement] helly199685 body_buttons_green_laurel
+[00:37:13]: [Death Announcement] helly199685 死於： 中暑。她變成了可怕的鬼魂！
+[00:40:13]: [Resurrect Announcement] helly199685 復活自： zero3495.
+[00:47:30]: [Death Announcement] helly199685 死於： 黑暗。她變成了可怕的鬼魂！
+[00:49:36]: [Resurrect Announcement] helly199685 復活自： 試金石.
+[00:56:37]: [Skin Announcement] KL legs_pj_orange_honey
+[01:00:45]: [Skin Announcement] zero3495 feet_willow_nature
+[01:21:57]: [Leave Announcement] KL
+[01:21:58]: [Leave Announcement] helly199685
+[01:21:58]: [Leave Announcement] zero3495

@@ -1,0 +1,11 @@
+[00:00:58]: [Join Announcement] KL
+[00:02:45]: [Join Announcement] zero3495
+[00:02:58]: [Join Announcement] helly199685
+[00:22:58]: [Skin Announcement] helly199685 body_warly_fisherman
+[00:32:46]: [Leave Announcement] helly199685
+[00:40:04]: [Skin Announcement] KL hand_willow_pirate
+[00:44:29]: [Death Announcement] KL 死於： 伏特羊。她變成了可怕的鬼魂！
+[00:44:49]: [Resurrect Announcement] KL 復活自： 肉塊雕像.
+[00:46:58]: [Death Announcement] KL 死於： 伏特羊。她變成了可怕的鬼魂！
+[00:47:09]: [Leave Announcement] KL
+[00:47:10]: [Leave Announcement] zero3495
